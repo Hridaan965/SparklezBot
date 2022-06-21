@@ -37,4 +37,4 @@ SparklezBot comes with a rich variety of music commands and misc commands (misc 
 | volume | Set the volume, 1% - 150%.|
 
 ## **Invite the bot!**
-So what are you waiting for [Invite](https://discord.com/oauth2/authorize?client_id=985222296463634492&scope=bot+applications.commands&permissions=281353243969) SparklezBot to your server today to test it out and join [our discord server](https://discord.gg/Ctv8qffjHF) for support!
+So what are you waiting for? [Invite](https://discord.com/oauth2/authorize?client_id=985222296463634492&scope=bot+applications.commands&permissions=281353243969) SparklezBot to your server today to test it out and join [our discord server](https://discord.gg/Ctv8qffjHF) for support!
