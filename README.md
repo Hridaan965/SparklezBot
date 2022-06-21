@@ -1,4 +1,4 @@
-# Introducing **SparklezBot**! A music and misc bot!
+# Presenting **SparklezBot**! A music and misc bot!
 ### SparklezBot is a music and misc bot made by _***Sparkz#2964***_!
 ***
 ## **Feature List**:
