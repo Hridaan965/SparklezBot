@@ -2,7 +2,7 @@
 ### SparklezBot is a music and misc bot made by _***Sparkz#2964***_!
 ***
 ## **Feature List**:
-SparklezBot comes with rich music commands and misc commands which are processing (underway). 
+SparklezBot comes with rich music commands and misc commands which are processing (underway). The bot prefix is `sp!` (use `sp!prefix <new_prefix>` to change!).
 
 **Here's the full list of commands:**
 | Command | Description |
