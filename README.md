@@ -1,8 +1,8 @@
-# Presenting **SparklezBot**! A music and misc bot!
-### SparklezBot is a music and misc bot made by _***Sparkz#2964***_!
+# Presenting **Sparklez Bot**! A music and misc bot!
+### Sparklez Bot is a music and misc bot made by _***Sparkz#2964***_!
 ***
 ## **Feature List**:
-SparklezBot comes with a rich variety of music commands and misc commands (misc underway). The bot prefix is `sp!` (use `sp!prefix <new_prefix>` to change!).
+Sparklez Bot comes with a rich variety of music commands and misc commands (misc underway). The bot prefix is `sp!` (use `sp!prefix <new_prefix>` to change!).
 
 **Here's the full list of commands:**
 | Command | Description |
@@ -37,6 +37,6 @@ SparklezBot comes with a rich variety of music commands and misc commands (misc 
 | volume | Set the volume, 1% - 150%.|
 
 ## **Invite the bot!**
-So what are you waiting for? [Invite](https://discord.com/oauth2/authorize?client_id=985222296463634492&scope=bot+applications.commands&permissions=281353243969) SparklezBot to your server today to test it out and join [our discord server](https://discord.gg/Ctv8qffjHF) for support!
+So what are you waiting for? [Invite](https://discord.com/oauth2/authorize?client_id=985222296463634492&scope=bot+applications.commands&permissions=281353243969) Sparklez Bot to your server today to test it out and join [our discord server](https://discord.gg/Ctv8qffjHF) for support!
 
 [![](https://img.shields.io/discord/861886068793147402.svg?logo=discord&colorB=e7da00&label=SparklezBot%20Support)](https://discord.gg/Ctv8qffjHF)
